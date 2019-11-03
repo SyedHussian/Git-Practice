@@ -10,4 +10,9 @@ public class Main
     {
         System.out.println("hello world!");
     }
+    
+    public static void newBranch()
+    {
+        System.out.println("after creating a new branch");
+    }
 }
