@@ -15,4 +15,9 @@ public class Main
     {
         System.out.println("after creating a new branch");
     }
+    
+    public static void newFeatureInLocalBranch()
+    {
+        System.out.println("new feature");
+    }
 }
